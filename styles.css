@@ -435,7 +435,7 @@ footer :nth-child(2){
         padding: 0px 25px;
     }
     header h1{
-        font-size: 220px;
+        font-size: 180px;
     }
     h1{
         font-size: 100px;
@@ -533,10 +533,10 @@ footer :nth-child(2){
     }
 
     .slider{
-        height: 800px;
+        height: 500px;
     }
     .slider img{
-        width: 50%;
+        width: 100%;
     }
     
     #certificados img{
